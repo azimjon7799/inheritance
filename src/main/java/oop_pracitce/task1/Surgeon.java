@@ -1,4 +1,4 @@
-package oop_pracitce;
+package oop_pracitce.task1;
 
 public class Surgeon extends Doctor {
     private int numberOfSurgeriesPerformed;
